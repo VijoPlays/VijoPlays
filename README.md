@@ -1,4 +1,4 @@
-I'm Alexander 'Vijo' Ott, a Software Engineer 👨‍💻.
+I'm Alexander 'Vijo' Ott, a Software Engineer 👨‍💻. My website can be found [here](https://vijoplays.github.io/profile/).
 
 I primarily work in the **Backend**, but I also enjoy doing Fullstack work.
 
