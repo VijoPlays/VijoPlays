@@ -32,3 +32,4 @@ I really enjoy writing smaller programs in Python, but anything bigger is usuall
 # Links
 
 * [LinkedIn](https://www.linkedin.com/in/alexandervijoott/)
+* [My website](https://vijoplays.github.io/profile/)
