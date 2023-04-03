@@ -1,6 +1,6 @@
-I'm Alexander 'Vijo' Ott, a Software Engineer.
+I'm Alexander 'Vijo' Ott, a Software Engineer 👨‍💻.
 
-I primarily work in the *Backend*, but I also enjoy doing Fullstack work.
+I primarily work in the **Backend**, but I also enjoy doing Fullstack work.
 
 I work on everything from the conception, to the development and improvement, up to the deployment of software.
 
