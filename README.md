@@ -23,6 +23,12 @@ I really enjoy writing smaller programs in Python, but anything bigger is usuall
 * Vue
 * TypeScript/JavaScript
 
+# Fields I focus on
+
+* Databases
+* Security
+* Testing
+
 # Links
 
 * [LinkedIn](https://www.linkedin.com/in/alexandervijoott/)
